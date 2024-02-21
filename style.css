@@ -14,11 +14,16 @@ h1{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding: 2%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 100%;
     height: 100%;
+    
+}
+.half-width p{
+    color:purple;
+    font-weight: bolder;
 }
 .top-banner{
     background-image:url("Images/top-banner.png");
@@ -26,4 +31,76 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
+}
+.link{
+    border:300px, 30px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    padding: 10px, 20px;
+    background-image: linear-gradient(45deg, salmon,tomato);
+}
+.second_halfWidth{
+    width: 40%;
+    margin-left:5%;
+    padding-left:2%;
+    float:left;
+
+}
+.second_halfWidth img{
+    height: 100%;
+    width: 100%;
+}
+
+.second_halfWidth a{
+    
+        
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 5px;
+        color: white;
+        padding: 10px, 20px;
+        background-image: linear-gradient(45deg, salmon,tomato);
+
+}
+.second_halfWidth p{
+    color: purple;
+    font-weight: bolder;
+}
+
+.second_banner{
+    background-image: url("Images/dream-bg.png");
+    background-repeat: no-repeat;
+    float:left;
+}
+.section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.bottom{
+    
+    
+}
+
+.bottomHalfWidth1{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 100%;
+    height: 100%;
+    float:left;
+    
+}
+.bottomHalfWidth2{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 100%;
+    height: 100%;
+    float:left;
+    
 }
