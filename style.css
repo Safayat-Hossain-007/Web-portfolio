@@ -14,11 +14,12 @@ h1{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding: 2%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 100%;
     height: 100%;
+    
 }
 .half-width p{
     color:purple;
@@ -32,6 +33,7 @@ section{
     height: 500px;
 }
 .link{
+    border:300px, 30px;
     text-align: center;
     text-decoration: none;
     font-weight: bold;
@@ -43,7 +45,7 @@ section{
 .second_halfWidth{
     width: 40%;
     margin-left:5%;
-    padding:2%;
+    padding-left:2%;
     float:left;
 
 }
@@ -54,7 +56,7 @@ section{
 
 .second_halfWidth a{
     
-        border: 1px solid tomato;
+        
         text-decoration: none;
         font-weight: bold;
         border-radius: 5px;
